@@ -1,0 +1,17 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+transformers>=5.0
+accelerate
+pillow
+pymupdf
+docling-core
+pandas
+matplotlib
+psutil
+pytest
+rapidfuzz
+apted
+lxml
+datasets
+huggingface_hub
